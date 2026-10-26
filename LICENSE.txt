@@ -1,0 +1,5 @@
+AEROVIA
+Copyright (c) 2026 Mujahadah Alfa. All rights reserved.
+
+Kode dan aset dalam proyek ini adalah milik Mujahadah Alfa. Dilarang menyalin, mendistribusikan, atau memodifikasi tanpa izin tertulis dari pemilik hak cipta.
+OpenStreetMap (c) para kontributor OpenStreetMap; Leaflet (c) Vladimir Agafonkin, lisensi BSD-2-Clause.
